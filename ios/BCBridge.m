@@ -354,6 +354,7 @@ NSString *mAliBaiChuan_init_sdk = @"false";
         showParam.openType = AlibcOpenTypeAuto;
     }
     //新版加入，防止唤醒手淘app的时候打开h5
+    showParam.isNeedCustomNativeFailMode = true;
     showParam.nativeFailMode = AlibcNativeFailModeJumpH5;
     showParam.linkKey=@"taobao";
     
