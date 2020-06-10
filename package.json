@@ -1,6 +1,5 @@
-
 {
-  "name": "react-native-mbaichuan",
+  "name": "react-native-baichuan",
   "version": "4.2.0",
   "description": "react-native library for Ali Baichuan",
   "main": "index.js",
@@ -18,9 +17,9 @@
   "author": "bashen1 <maochunjie@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bashen1/react-native-mbaichuan/issues"
+    "url": "https://github.com/hengkx/react-native-baichuan/issues"
   },
-  "homepage": "https://github.com/bashen1/react-native-mbaichuan#readme",
+  "homepage": "https://github.com/hengkx/react-native-baichuan#readme",
   "peerDependencies": {
     "react-native": ">=0.40"
   }
