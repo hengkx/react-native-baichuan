@@ -1,6 +1,6 @@
 {
-  "name": "react-native-baichuan",
-  "version": "4.2.2",
+  "name": "@hengkx/react-native-baichuan",
+  "version": "0.1.0",
   "description": "react-native library for Ali Baichuan",
   "main": "index.js",
   "scripts": {
